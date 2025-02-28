@@ -12,8 +12,7 @@ This project implements a predator-prey simulation in C. It demonstrates:
   - `ecosystem_unit_tests.c`: Basic unit tests for ecosystem functionality
   - `ecosystem_random_tests.c`: Tests involving random behavior and file I/O
   - `ecosys.h` and `ecosys.c`: Library functions for ecosystem management
-  - `Makefile`: Build instructions (if you have one here)
-- (Add other folders if needed)
+  - `Makefile`: Build instructions 
 
 ## How to Compile and Run
 1. Clone the repository:
